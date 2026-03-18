@@ -1,0 +1,23 @@
+# Maxi Voice Assistant - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# AI & NLP
+google-generativeai>=0.3.0
+python-dotenv>=1.0.0
+
+# Speech Recognition & TTS
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+pvporcupine>=3.0.0
+pyaudio>=0.2.11
+vosk>=0.3.45
+requests>=2.31.0
+ollama>=0.1.0
+
+# System Control
+pyautogui>=0.9.54
+keyboard>=0.13.5
+pycaw>=20230718
+
+# Utilities
+python-dateutil>=2.8.2
